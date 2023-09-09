@@ -1,0 +1,8 @@
+./idea
+.vs/
+target/
+Cargo.lock
+.vscode/
+build/
+flamegraph.svg
+.DS_Store
